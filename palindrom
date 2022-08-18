@@ -1,0 +1,53 @@
+# a=int(input('enter the number'))
+# i=0
+# b=a
+# while a>0:
+#     i=i*10+a%10
+#     a//=10
+# if b==i:
+#     print("palindrom number")
+# else:
+#     print("not")
+
+# i=1
+# while i<=5:
+#     j=1
+#     while j<i:
+#         print(j,end=" ")
+#         j+=1
+#     print(i)
+#     i+=1
+
+# def num():
+#     i=1
+#     while i<=5:
+#         j=5
+#         while j>i:
+#             print(j,end=" ")
+#             j-=1
+#         print(i)
+#         i+=1
+# num()
+
+# def num():
+#     i=5
+#     while i>=1:
+#         j=1
+#         while j<i:
+#             print(i,end=" ")
+#             j+=1
+#         print(i)
+#         i-=1
+# num()
+
+# def num():
+#     i=1
+#     while i>=1:
+#         j=1
+#         while j<i:
+#             print(j,end="")
+#             j+=1
+#         print(i)
+#         i-=1
+# num()
+
